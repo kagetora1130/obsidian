@@ -5,5 +5,6 @@ https://www.nihongo-ews.mext.go.jp/information/framework_of_reference#life
 ・A1からB2レベルまでの約800項目の言語能力記述文（Can do）を「生活Can do」として示しました
 ・「生活者としての外国人」が遭遇すると考えられる言語活動を例示（あくまで例示であり、網羅したものでありません。そのため、日本語でできるようにならなければならない行為の一覧ではありません）
 **「ビジネス日本語Can-do statements」**
-・
+https://business-japanese-cando.jp/
+
 
