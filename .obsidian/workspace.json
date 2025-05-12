@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Can-doリストづくり/00Can-doリストとは.md",
+                "file": "Can-doリストづくり/01製作要項.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00Can-doリストとは"
+              "title": "01製作要項"
             }
           },
           {
@@ -333,10 +333,10 @@
   },
   "active": "34d2909c682e0671",
   "lastOpenFiles": [
-    "Tasuku Risuto.md",
     "Can-doリストづくり/00Can-doリストとは.md",
-    "Can-doリストづくり/02参考文献.md",
     "Can-doリストづくり/01製作要項.md",
+    "Tasuku Risuto.md",
+    "Can-doリストづくり/02参考文献.md",
     "かきものおきば/［発表］日日研（7.25）すごいめっちゃ.md",
     "01調査の進捗.md",
     "copilot-conversations/こんばんは@20250422_110844.md",
