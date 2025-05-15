@@ -181,11 +181,27 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d915c64dd37e97c3",
   "lastOpenFiles": [
+    "かきもの・ネタおきば/［調査］自動車整備士実習生に日本語は不要？.md",
+    "かきもの・ネタおきば/［発表］日日研（7.25）すごいめっちゃ.md",
+    "かきもの・ネタおきば/［発表］NKG秋・要旨（6.30）.md",
+    "かきもの・ネタおきば",
+    "Neta okiba.md",
+    "Can-doリストづくり/091他のCando.md",
+    "Can-doリストづくり/090参考文献.md",
+    "Can-doリストづくり/011細かい疑問メモ.md",
+    "Can-doリストづくり/010製作要項.md",
+    "Can-doリストづくり/000Can-doリストとは.md",
+    "Can-doリストづくり",
+    "2025-05-14.md",
+    "2025-04-22.md",
+    "01調査の進捗.md",
+    "00研究の進捗（発表・論文）.md",
     "Welcome.md"
   ]
 }
