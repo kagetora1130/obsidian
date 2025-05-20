@@ -1,14 +1,196 @@
 {
   "main": {
-    "id": "c55876ee65eaa490",
+    "id": "dd049f761db20156",
     "type": "split",
     "children": [
       {
-        "id": "6c2c549eacdb968d",
+        "id": "dc7e5cecc4bbbdf5",
         "type": "tabs",
         "children": [
           {
-            "id": "d915c64dd37e97c3",
+            "id": "f0d51ab1e51b6ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00研究の進捗（発表・論文）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00研究の進捗（発表・論文）"
+            }
+          },
+          {
+            "id": "43c856e493c2d7ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00研究の進捗（発表・論文）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00研究の進捗（発表・論文）"
+            }
+          },
+          {
+            "id": "f9039bd097dced60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "かきものおきば/［発表］NKG秋・要旨（6.30）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "［発表］NKG秋・要旨（6.30）"
+            }
+          },
+          {
+            "id": "8b7a135700436f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Can-doリストづくり/00Can-doリストとは.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00Can-doリストとは"
+            }
+          },
+          {
+            "id": "a3f6c1363a6532bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Can-doリストづくり/01製作要項.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01製作要項"
+            }
+          },
+          {
+            "id": "34d2909c682e0671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Can-doリストづくり/010製作要項.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "010製作要項"
+            }
+          },
+          {
+            "id": "e32d06a3f6701329",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Neta okiba.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Neta okiba"
+            }
+          },
+          {
+            "id": "0e54889b85918907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00研究の進捗（発表・論文）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00研究の進捗（発表・論文）"
+            }
+          },
+          {
+            "id": "b2eeaa33a06fb30f",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          },
+          {
+            "id": "948d46160b2e5abe",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Tasuku Risuto.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Tasuku Risuto"
+            }
+          },
+          {
+            "id": "8c741940d557146f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Can-doリストづくり/00Can-doリストとは.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00Can-doリストとは"
+            }
+          },
+          {
+            "id": "551e1b2ad9226d1d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
+            "id": "84b83d0dd0ad9226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "かきもの・ネタおきば/［発表］日日研（7.25）すごいめっちゃ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "［発表］日日研（7.25）すごいめっちゃ"
+            }
+          },
+          {
+            "id": "21735b5561db92fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,34 +203,35 @@
               "title": "［発表］日日研（7.25）すごいめっちゃ"
             }
           }
-        ]
+        ],
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cfd21b2f0635d125",
+    "id": "f1acf18a1f37387f",
     "type": "split",
     "children": [
       {
-        "id": "9fa1bbbadc4bc6ee",
+        "id": "273c3ee38fca2a6e",
         "type": "tabs",
         "children": [
           {
-            "id": "f0954f5eed53c856",
+            "id": "7b50adb36cde4844",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "ファイルエクスプローラ"
             }
           },
           {
-            "id": "bcb23faa5570a3cf",
+            "id": "6cdc1d9875893bc5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,17 +244,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "検索"
+              "title": "Search"
             }
           },
           {
-            "id": "140f044859c920cf",
+            "id": "b92a7242a86941e8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "ブックマーク"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,20 +264,20 @@
     "width": 300
   },
   "right": {
-    "id": "67968e85041ad684",
+    "id": "8102b049502a0470",
     "type": "split",
     "children": [
       {
-        "id": "88b37af832a1aa87",
+        "id": "b3342884116e27fe",
         "type": "tabs",
         "children": [
           {
-            "id": "753e20d16c311443",
+            "id": "39f93f94e6b9ede0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "00研究の進捗（発表・論文）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +287,40 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Welcomeへのバックリンク"
+              "title": "Backlinks for 00研究の進捗（発表・論文）"
             }
           },
           {
-            "id": "901f2a3f81806e2d",
+            "id": "ac23d7c4ab591725",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Welcomeからのアウトゴーイングリンク"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
-            "id": "e8dfcc3029e3cee9",
+            "id": "3778ad881b3269c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Can-doリストづくり/01製作要項.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01製作要項"
+            }
+          },
+          {
+            "id": "f5e0d5dcc5ae9bf3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,26 +331,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "タグ"
+              "title": "Tags"
             }
           },
           {
-            "id": "7eefe56587f8d173",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Welcome.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Welcomeのアウトライン"
-            }
-          },
-          {
-            "id": "b86346df0073a2ec",
+            "id": "f1da55fda8cf37ed",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -160,45 +343,69 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "b2b19a0fe7f5361d",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 490.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-memos:Thino": false,
-      "obsidian-kanban:カンバンボードを新規作成": false,
-      "copilot:Open Copilot Chat": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-memos:Thino": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d915c64dd37e97c3",
+  "active": "21735b5561db92fd",
   "lastOpenFiles": [
+    "かきもの・ネタおきば/［発表］NKG秋・要旨（6.30）.md",
+    "かきもの・ネタおきば/［調査］自動車整備士実習生に日本語は不要？.md",
+    "かきもの・ネタおきば/［発表］日日研（7.25）すごいめっちゃ.md",
+    "Welcome.md",
+    "00研究の進捗（発表・論文）.md",
     "01調査の進捗.md",
+    "Neta okiba.md",
     "2025-04-22.md",
     "2025-05-14.md",
-    "Neta okiba.md",
-    "かきもの・ネタおきば/［発表］日日研（7.25）すごいめっちゃ.md",
-    "かきもの・ネタおきば/［調査］自動車整備士実習生に日本語は不要？.md",
-    "かきもの・ネタおきば/［発表］NKG秋・要旨（6.30）.md",
-    "00研究の進捗（発表・論文）.md",
-    "Welcome.md",
-    "かきもの・ネタおきば",
-    "Can-doリストづくり/091他のCando.md",
     "Can-doリストづくり/090参考文献.md",
+    "Can-doリストづくり/000Can-doリストとは.md",
+    "Can-doリストづくり/091他のCando.md",
     "Can-doリストづくり/011細かい疑問メモ.md",
     "Can-doリストづくり/010製作要項.md",
-    "Can-doリストづくり/000Can-doリストとは.md",
-    "Can-doリストづくり"
+    "copilot-conversations/こんばんは@20250422_110844.md",
+    "copilot-conversations",
+    "Untitled",
+    "Can-doリストづくり",
+    "キーワードリスト/技能実習制度.md",
+    "自動車整備教科書2-3級の比較（日本語教育学会秋（富山）［6/25〆切］）.md",
+    "00自動車整備教科書2-3級の比較（日本語教育学会秋（富山）［6",
+    "かきもの・ネタおきば",
+    "2025-03-24.md",
+    "2025-Calendar-scaled.jpg",
+    "キーワードリスト",
+    "Untitled.canvas",
+    "整備士Can-do/n.md",
+    "a page.md",
+    "整備士Can-do/Untitled",
+    "整備士Can-do"
   ]
 }
