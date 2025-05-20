@@ -359,7 +359,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 490.5
+    "width": 1141.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -375,7 +375,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "21735b5561db92fd",
+  "active": "b2b19a0fe7f5361d",
   "lastOpenFiles": [
     "かきもの・ネタおきば/［発表］NKG秋・要旨（6.30）.md",
     "かきもの・ネタおきば/［調査］自動車整備士実習生に日本語は不要？.md",
