@@ -192,9 +192,37 @@
               "icon": "lucide-trello",
               "title": "Yaruko to Risto"
             }
+          },
+          {
+            "id": "ceba516e2f225475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "調査予定・内容/003試験調査.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "003試験調査"
+            }
+          },
+          {
+            "id": "e96846be829927e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "調査予定・内容/004「技能登録試験」（とは？）調査.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "004「技能登録試験」（とは？）調査"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -365,11 +393,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "84b83d0dd0ad9226",
+  "active": "e96846be829927e7",
   "lastOpenFiles": [
+    "調査予定・内容/003試験調査.md",
+    "調査予定・内容/004「技能登録試験」（とは？）調査.md",
+    "Yaruko to Risto.md",
     "かきもの・ネタおきば/［発表］日日研（7.25）すごいめっちゃ.md",
     "無題のカンバン.md",
-    "Yaruko to Risto.md",
     "調査予定・内容/002自動車整備士実習生に日本語は不要？.md",
     "2025-05-14.md",
     "Welcome.md",
