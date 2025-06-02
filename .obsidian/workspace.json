@@ -183,14 +183,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d1a6d015f354e5b4",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2f79031ce089b60",
+  "active": "d1a6d015f354e5b4",
   "lastOpenFiles": [
     "かきもの・ネタおきば/［発表］日日研（7.25）すごいめっちゃ.md",
     "2025-04-22.md",
