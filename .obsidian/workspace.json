@@ -1,57 +1,41 @@
 {
   "main": {
-    "id": "d65ad03ab2b0fa2a",
+    "id": "2d45fe5e8a2471f6",
     "type": "split",
     "children": [
       {
-        "id": "f39e7ed1126f43fe",
+        "id": "07e6feaef46acff7",
         "type": "tabs",
         "children": [
           {
-            "id": "f3f8f2a3290511ed",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "かきもの・ネタおきば/［発表］日日研（7.25）すごいめっちゃ.md",
-                "bFile": "かきもの・ネタおきば/［発表］日日研（7.25）すごいめっちゃ.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: ［発表］日日研（7.25）すごいめっちゃ"
-            }
-          },
-          {
-            "id": "c2f79031ce089b60",
+            "id": "5e0860cd5a0d0e72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "かきもの・ネタおきば/［発表］日日研（7.25）すごいめっちゃ.md",
+                "file": "かきもの・ネタおきば/［発表］NKG秋・要旨（6.30）「やさにちチェッカー」を使用した自動車整備士国家試験における言語的特徴のレベル間比較.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "［発表］日日研（7.25）すごいめっちゃ"
+              "title": "［発表］NKG秋・要旨（6.30）「やさにちチェッカー」を使用した自動車整備士国家試験における言語的特徴のレベル間比較"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "eb4688dc91d232be",
+    "id": "0852b9c919a9d6ed",
     "type": "split",
     "children": [
       {
-        "id": "097fd2b738503082",
+        "id": "c5ec6eb243c8a6f7",
         "type": "tabs",
         "children": [
           {
-            "id": "d5e85d6e7146ee87",
+            "id": "989855b64d4a2b7b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +48,7 @@
             }
           },
           {
-            "id": "6ea888d83a4915bf",
+            "id": "6c202f8fb015834d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +65,7 @@
             }
           },
           {
-            "id": "461133c0e117b7d3",
+            "id": "ae57b11c47d4265d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "85df51887635f026",
+    "id": "58f40a477a26516d",
     "type": "split",
     "children": [
       {
-        "id": "5e593d2d529e80b8",
+        "id": "598c106780e2a0cd",
         "type": "tabs",
         "children": [
           {
-            "id": "cdaf4c417ef5a036",
+            "id": "1e30ac6221354557",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "かきもの・ネタおきば/［発表］日日研（7.25）すごいめっちゃ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "［発表］日日研（7.25）すごいめっちゃへのバックリンク"
             }
           },
           {
-            "id": "5efc91f73fdc7661",
+            "id": "9d1941fe5a837348",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "かきもの・ネタおきば/［発表］日日研（7.25）すごいめっちゃ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "［発表］日日研（7.25）すごいめっちゃからのアウトゴーイングリンク"
             }
           },
           {
-            "id": "e367309383baaed1",
+            "id": "eecf8ed335056fac",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,21 +137,22 @@
             }
           },
           {
-            "id": "ea99458ace7c3374",
+            "id": "20a5138603c6baa5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "かきもの・ネタおきば/［発表］日日研（7.25）すごいめっちゃ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "［発表］日日研（7.25）すごいめっちゃのアウトライン"
             }
           },
           {
-            "id": "7cece29cd94e0cac",
+            "id": "61b408a4a076531b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -175,23 +162,13 @@
             }
           },
           {
-            "id": "1566fcf64051b207",
+            "id": "23e66ddf3e59fc60",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "d1a6d015f354e5b4",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
             }
           }
         ],
@@ -216,12 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2f79031ce089b60",
+  "active": "5e0860cd5a0d0e72",
   "lastOpenFiles": [
-    "かきもの・ネタおきば/［発表］NKG秋・要旨（6.30）「やさにちチェッカー」を使用した自動車整備士国家試験における言語的特徴のレベル間比較.md",
-    "調査予定・内容/001自動車整備口頭テスト.md",
+    "調査予定・内容/002自動車整備士実習生に日本語は不要？.md",
     "かきもの・ネタおきば/［発表］日日研（7.25）すごいめっちゃ.md",
-    "2025-04-22.md",
-    "conflict-files-obsidian-git.md"
+    "かきもの・ネタおきば/［発表］NKG秋・要旨（6.30）「やさにちチェッカー」を使用した自動車整備士国家試験における言語的特徴のレベル間比較.md",
+    "かきもの・ネタおきば/［発表］NKG秋・要旨（6.30）.md"
   ]
 }
