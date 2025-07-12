@@ -8,77 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "400a86f91d405398",
+            "id": "5e0860cd5a0d0e72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "調査予定・内容/001-1自動車整備口頭テスト.md",
+                "file": "調べたこと置き場/001 webサイトねた.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001-1自動車整備口頭テスト"
+              "title": "001 webサイトねた"
             }
           },
           {
-            "id": "59a8effa71049617",
+            "id": "a9ccd60317598b48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "調査予定・内容/006-0指導員インタヴ：現場が違うと評価も違う？.md",
+                "file": "調べたこと置き場/001 webサイトねた.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "006-0指導員インタヴ：現場が違うと評価も違う？"
-            }
-          },
-          {
-            "id": "db4305ae04d9bb2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "調査予定・内容/001-1自動車整備口頭テスト.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "001-1自動車整備口頭テスト"
-            }
-          },
-          {
-            "id": "88969c369e6cafc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "調査予定・内容/006-1　じぇみの言うこと.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "006-1　じぇみの言うこと"
-            }
-          },
-          {
-            "id": "b637e10cdea06bda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "かきもの・ネタおきば/［発表］日日研（7.25）すごいめっちゃ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "［発表］日日研（7.25）すごいめっちゃ"
+              "title": "001 webサイトねた"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,8 +172,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "アクティブでなくなったプラグイン"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -227,24 +185,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "5bcacfaed4ed583a",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 415.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,26 +207,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b637e10cdea06bda",
+  "active": "a9ccd60317598b48",
   "lastOpenFiles": [
-    "調査予定・内容/001-1自動車整備口頭テスト.md",
-    "調査予定・内容/001-2やること・具体的な流れ.md",
     "かきもの・ネタおきば/［発表］日日研（7.25）すごいめっちゃ.md",
     "調査予定・内容/006-1　じぇみの言うこと.md",
     "調べたこと置き場/001 webサイトねた.md",
     "調べたこと置き場/000 思いついたことメモ.md",
-    "調査予定・内容/003試験調査.md",
-    "().md",
-    "調べたこと置き場",
-    "調査予定・内容/006-0指導員インタヴ：現場が違うと評価も違う？.md",
-    "かきもの・ネタおきば/［発表］NKG秋・要旨（6.25）「やさにちチェッカー」を使用した自動車整備士国家試験における言語的特徴のレベル間比較.md",
-    "調査予定・内容/001-3　関連先行研究.md",
-    "調査予定・内容/004「技能登録試験」（とは？）調査.md",
-    "調査予定・内容/005とても教科書調査.md",
-    "調査予定・内容/000すけじゅーる.md",
-    "調査予定・内容/002自動車整備士実習生に日本語は不要？.md",
-    "Can-doリストづくり/090参考文献.md",
     "自動車整備士関連資料.md",
+    "().md",
+    "調査予定・内容/001-2やること・具体的な流れ.md",
+    "調査予定・内容/001-1自動車整備口頭テスト.md",
+    "調査予定・内容/006-0指導員インタヴ：現場が違うと評価も違う？.md",
+    "調査予定・内容/001-3　関連先行研究.md",
+    "調べたこと置き場",
+    "かきもの・ネタおきば/［発表］NKG秋・要旨（6.25）「やさにちチェッカー」を使用した自動車整備士国家試験における言語的特徴のレベル間比較.md",
+    "調査予定・内容/002自動車整備士実習生に日本語は不要？.md",
     "かきもの・ネタおきば/［発表］NKG秋・要旨（6.30）.md"
   ]
 }
