@@ -202,9 +202,21 @@
               "icon": "lucide-file",
               "title": "000 思いついたことメモ"
             }
+          },
+          {
+            "id": "7b7561d45712fc62",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -386,7 +398,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9ba26c5ba0a5ef7",
+  "active": "7b7561d45712fc62",
   "lastOpenFiles": [
     "調べたこと置き場/001 webサイトねた.md",
     "調査予定・内容/000すけじゅーる.md",
