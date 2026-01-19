@@ -219,12 +219,14 @@
             "id": "1a3015a93d7ff822",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "調査予定・内容/001-1自動車整備口頭テスト.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "001-1自動車整備口頭テスト"
             }
           }
         ],
@@ -412,10 +414,10 @@
   },
   "active": "1a3015a93d7ff822",
   "lastOpenFiles": [
+    "調査予定・内容/001-2やること・具体的な流れ.md",
     "調べたこと置き場/001 webサイトねた.md",
     "調査予定・内容/000すけじゅーる.md",
     "調査予定・内容/001-1自動車整備口頭テスト.md",
-    "調査予定・内容/001-2やること・具体的な流れ.md",
     "調査予定・内容/001-3　関連先行研究.md",
     "調査予定・内容/002自動車整備士実習生に日本語は不要？.md",
     "調査予定・内容/003 整備士試験調査（3級と2級のちがい）.md",
