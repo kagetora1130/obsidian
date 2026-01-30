@@ -228,9 +228,21 @@
               "icon": "lucide-file",
               "title": "001-1自動車整備口頭テスト"
             }
+          },
+          {
+            "id": "4737510ba49bec33",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -412,7 +424,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a3015a93d7ff822",
+  "active": "4737510ba49bec33",
   "lastOpenFiles": [
     "調査予定・内容/001-2やること・具体的な流れ.md",
     "調べたこと置き場/001 webサイトねた.md",
