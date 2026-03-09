@@ -240,9 +240,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.11.5"
             }
+          },
+          {
+            "id": "8a6c70a60857262d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -424,7 +436,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4737510ba49bec33",
+  "active": "8a6c70a60857262d",
   "lastOpenFiles": [
     "調査予定・内容/001-2やること・具体的な流れ.md",
     "調べたこと置き場/001 webサイトねた.md",
