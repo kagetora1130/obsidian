@@ -250,11 +250,23 @@
                 "currentVersion": "1.11.7"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "title": "リリースノート 1.11.7"
+            }
+          },
+          {
+            "id": "9287a6062f7cdb75",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "リリースノート 1.12.4"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -423,7 +435,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "bases:新規ベースを作成": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -436,7 +448,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a6c70a60857262d",
+  "active": "9287a6062f7cdb75",
   "lastOpenFiles": [
     "調査予定・内容/001-2やること・具体的な流れ.md",
     "調べたこと置き場/001 webサイトねた.md",
